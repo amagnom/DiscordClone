@@ -20,10 +20,11 @@ export const Grid = styled.div`
 //Aqui vai a declaração dos grid, dividimos em 3 linhas e 4 colunas
 //os grids
 
-  grid-template-area : 
+  grid-template-areas : 
   'SL SN CI CI'
   'SL CL CD UL'
   'SL UI CD UL';
 
-  height: 100%
+  height: 100vh;
 `;
+
