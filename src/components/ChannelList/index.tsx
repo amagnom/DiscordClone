@@ -12,6 +12,9 @@ const ChannelList: React.FC = () => {
         <AddCategoryIcon />
       </Category>
 
+{/* 
+ Cada botao desse é um canal, que esta dentro do componente da lista de canais
+*/}  
       <ChannelButton channelName="chat-livre" />
       <ChannelButton channelName="trabalho" />
       <ChannelButton channelName="dota" />
