@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/DiscordClone/static/js/main.b2a55c5b.chunk.js",
+    "main.js.map": "/DiscordClone/static/js/main.b2a55c5b.chunk.js.map",
+    "runtime-main.js": "/DiscordClone/static/js/runtime-main.5247088b.js",
+    "runtime-main.js.map": "/DiscordClone/static/js/runtime-main.5247088b.js.map",
+    "static/js/2.e305633d.chunk.js": "/DiscordClone/static/js/2.e305633d.chunk.js",
+    "static/js/2.e305633d.chunk.js.map": "/DiscordClone/static/js/2.e305633d.chunk.js.map",
+    "index.html": "/DiscordClone/index.html",
+    "static/js/2.e305633d.chunk.js.LICENSE.txt": "/DiscordClone/static/js/2.e305633d.chunk.js.LICENSE.txt",
+    "static/media/Logo.f074d17a.svg": "/DiscordClone/static/media/Logo.f074d17a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5247088b.js",
+    "static/js/2.e305633d.chunk.js",
+    "static/js/main.b2a55c5b.chunk.js"
+  ]
+}
