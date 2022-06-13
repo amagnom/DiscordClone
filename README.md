@@ -1,7 +1,6 @@
 ## Discord Clone
 
-### Live Demo:
-https://arildomagno.github.io/DiscordClone/
+### Live Demo: https://arildomagno.github.io/DiscordClone/
 
 
 
